@@ -1,0 +1,27 @@
+{
+  "name": "mongodb-data-layer-fundamentals-and-advanced-techniques-fin001",
+  "version": "1.0.0",
+  "description": "This project demonstrates MongoDB CRUD operations, advanced queries, aggregation pipelines, and indexing.",
+  "main": "insert_books.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PLP-MERN-Stack-Development/mongodb-data-layer-fundamentals-and-advanced-techniques-fin001.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/PLP-MERN-Stack-Development/mongodb-data-layer-fundamentals-and-advanced-techniques-fin001/issues"
+  },
+  "homepage": "https://github.com/PLP-MERN-Stack-Development/mongodb-data-layer-fundamentals-and-advanced-techniques-fin001#readme",
+  "dependencies": {
+    "mongodb": "^7.0.0"
+  }
+}
